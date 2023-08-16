@@ -1,4 +1,7 @@
 # Code-Wordpress
+
+### Original is Chinese, I translated to English
+
 I wordpress plugin which can display code in your wordpress website
 
 Upload the plugin to your wordpress website and activate it
